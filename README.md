@@ -1,2 +1,2 @@
 # wasm.bitcoin
-Intergrate wasm virtual machine to bitcoin
+bitcoint wasm virtual machine Intergration
